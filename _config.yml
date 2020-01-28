@@ -1,11 +1,11 @@
 # Site settings
-author: amusing-scraper-4123
-title: 
+author: Felipe "Frank" Fukuda
+title: Franklinstein
 header-img: img/home-bg.png
 email: felipelfukuda@gmail.com
-copyright_name: amusing-scraper-4123
+copyright_name: Felipe "Frank" Fukuda
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Tales of Franklinsaurus
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  felipelfukuda
