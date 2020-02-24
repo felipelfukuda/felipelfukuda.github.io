@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Solving a Booleans Lab!"
-date:       2020-02-24 19:54:18 +0000
+date:       2020-02-24 14:54:19 -0500
 permalink:  solving_a_booleans_lab
 ---
 
